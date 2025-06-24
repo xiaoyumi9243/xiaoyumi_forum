@@ -10,7 +10,7 @@
 ##使用方法
 --先选择你想要的版本，然后下载
 --把下载好的文件全部复制到服务器里，(如果下的是压缩文件就是解压到服务器)，然后编辑includes/config.php，config.php两个配置文件，将数据库地址，数据库用户名，数据库密码，数据库名称都换成你实际的，这样就可完成部署。
---再下载sql文件[立即下载](https://github.com/xiaoyumi9243/xiaoyumi_forum/Releases/tag/sql)
+--再下载sql文件[立即下载](https://github.com/xiaoyumi9243/xiaoyumi_forum/releases/)
 ##论坛特点
 --仅70多kb大小，适合infinityfree等空间小，带宽不高的服务器使用，移除多余的功能，肯定有点bug，敬请谅解(以后会修)
 --功能丰富的管理员面板，可管理多种不怎么常用的功能
